@@ -1,0 +1,19 @@
+# Never commit these to Git
+.env
+*.env
+
+# Bank statement files (contain real transaction data)
+INPUT_FOLDER/
+OUTPUT_FOLDER/
+Money_Manager_output/
+Insights/
+Budget/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
