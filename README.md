@@ -283,7 +283,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Built by Nagendra Prasath M
 
 LinkedIn — www.linkedin.com/in/nagendraprasath03121996
-GitHub — [https://github.com/your_username](https://github.com/your_username)
+GitHub — [https://github.com/nagendra333333](https://github.com/nagendra333333)
 
 ---
 
